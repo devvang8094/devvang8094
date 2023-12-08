@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devvang8094
-- 👀 I’m interested in .software development and coding..
-- 🌱 I’m currently learning ..c language.
-- 💞️ I’m looking to collaborate on .projrcts of c language..
+- 👀 I’m interested in software development and coding..
+- 🌱 I’m currently learning c language.
+- 💞️ I’m looking to collaborate on projects of c language..
 - 📫 How to reach me contact me on devang8094@gmail.com my gmail...
 
 <!---
