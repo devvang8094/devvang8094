@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Resume</h1>
 <p>My name is <b>Deepak Patidar</b> ,currently pursuing B.tech from MLVTEC Bhilwara.</p><br>
-<p>My skills are html and css and currently learning c language</p>
+<p>My skills are html and css.</p>
   
 
