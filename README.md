@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devvang8094
+- 👋 Hi, I’m @devang8094
 - 👀 I’m interested in software development and coding..
 - 🌱 I’m currently learning c language.
 - 💞️ I’m looking to collaborate on projects of c language..
