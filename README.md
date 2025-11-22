@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Devang**
+# 👋 Hi, I’m **Deepak**
 
 ### 🚀 Aspiring Software Developer | MERN & Java Enthusiast  
 
