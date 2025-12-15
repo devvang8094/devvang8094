@@ -41,7 +41,7 @@ A full-stack **library management system** with:
 - Frontend on GitHub Pages  
 - Backend on Railway / Render  
 
-👉 *(Add your project link here if available)*
+👉 *https://693ec36baf115f496c6bbed6--shreeswastiklibrary.netlify.app/html/home*
 
 ---
 
