@@ -6,7 +6,7 @@
 
 ## 👀 About Me  
 - 🔭 I’m passionate about **software development** and **problem-solving**.  
-- 💡 I have strong knowledge of **C Language**.  
+- 💡 I have strong knowledge of **Java Language**.  
 - 🤝 Looking to collaborate on **C projects**, Java applications, or **MERN stack** projects.  
 - 📫 Reach me at **devang8094@gmail.com**
 
